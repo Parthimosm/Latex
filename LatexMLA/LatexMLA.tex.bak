@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+\usepackage[letterpaper]{geometry}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+\usepackage{setspace}
+\doublespacing
+
+\begin{document}
+%top of page
+\begin{flushleft}
+Matthew Parthimos 
+
+Teacher
+
+Class 3D
+
+Date Month 2016
+
+\end{flushleft}
+%rest of page
+\begin{center}
+Title
+\end{center}
+\begin{flushleft}
+\begin{enumerate}
+\item $\pi \times 4y > \sqrt{18 \div 82^ \phi \times y + \frac{5}{3.14}} - 83$
+\end{enumerate}
+%\vspace{5.0\baselineskip} to skip lines
+hi
+
+\end{flushleft}
+\end{document}

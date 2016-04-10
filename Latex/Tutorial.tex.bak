@@ -1,0 +1,8 @@
+\documentclass[12pt]{article}
+
+\begin{document}
+\title{First Latex}
+
+Hi this is basic latex\\
+Math: $$3^\pi \times \sqrt{50} \geq 2x+18^2$$ 
+\end{document}

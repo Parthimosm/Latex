@@ -1,0 +1,16 @@
+\documentclass[12pt]{article}
+
+\begin{document}
+\title{Beginner Latex}
+\maketitle
+
+
+\paragraph*{1}
+this is a paragraph\\
+Math:  
+$$5x^\phi \times 3$$
+
+
+
+
+\end{document}
